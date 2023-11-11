@@ -18,7 +18,7 @@ FXML
 MySQL
 
 Contributors
-Dushyant Bhagwat (GitHub)
-Saniya Padwal (GitHub)
-Priyanshi Singh (GitHub)
-Niranjan Yadav (GitHub)
+Dushyant Bhagwat (https://github.com/dushyantbhagwat)
+Saniya Padwal (https://github.com/saniyapadwal)
+Priyanshi Singh (https://github.com/priyanshi57)
+Niranjan Yadav ()
