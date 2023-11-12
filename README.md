@@ -28,7 +28,7 @@ The "Smart City Blood Bank Application in Java" not only addresses the pressing 
  -  Admin Dashboard: Allows administrators to manage blood stock, patient requests. 
  - User-friendly Interface: Intuitive design for easy navigation.
 
-## Er Daigram
+
 
        : 
        ![Screenshot 2023-10-29 180518](https://github.com/NiranjanKumarYadav36/Smart-City-Blood-Bank-Application/assets/140634765/63f01c6a-3b1e-4180-97a4-abdb7e8599ed)
