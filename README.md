@@ -29,10 +29,9 @@ The "Smart City Blood Bank Application in Java" not only addresses the pressing 
  - User-friendly Interface: Intuitive design for easy navigation.
 
 
-
-
                                                                         *** [ER Diagram]  ***
 
+1. ![14](https://github.com/NiranjanKumarYadav36/Smart-City-Blood-Bank-Application/assets/140634765/144fa46e-0db8-42a8-93ac-39b27d296951)
 
 
 
