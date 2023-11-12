@@ -30,10 +30,15 @@ The "Smart City Blood Bank Application in Java" not only addresses the pressing 
 
 ## Er Daigram
 
+  ![image](https://github.com/NiranjanKumarYadav36/Smart-City-Blood-Bank-Application/assets/140634765/18140c49-c8c2-4be8-b807-48e29f61ae91)
+
+
+## Relational Model
+   ![Screenshot 2023-11-12 091417](https://github.com/NiranjanKumarYadav36/Smart-City-Blood-Bank-Application/assets/140634765/0e3e73cf-6977-4d52-ac36-15f4a9ab3b09)
 
 
  
-                                                    ***  UI Screen Shot  ***
+                                                            ***  UI Screen Shot  ***
 
 1. Application landing page:
    ![1](https://github.com/NiranjanKumarYadav36/Smart-City-Blood-Bank-Application/assets/140634765/9c995f9f-6fee-4d9a-9243-421cc58ae2e3)
