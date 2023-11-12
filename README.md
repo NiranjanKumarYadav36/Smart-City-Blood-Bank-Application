@@ -30,11 +30,16 @@ The "Smart City Blood Bank Application in Java" not only addresses the pressing 
 
 ## Er Daigram
 
+       : 
        ![Screenshot 2023-10-29 180518](https://github.com/NiranjanKumarYadav36/Smart-City-Blood-Bank-Application/assets/140634765/63f01c6a-3b1e-4180-97a4-abdb7e8599ed)
 
 
 ## Relational Model
+
+       :     
       ![Screenshot 2023-11-12 091417](https://github.com/NiranjanKumarYadav36/Smart-City-Blood-Bank-Application/assets/140634765/49009436-3827-4dec-8f61-d0e7d2bbec5f)
+
+
 
 
  
