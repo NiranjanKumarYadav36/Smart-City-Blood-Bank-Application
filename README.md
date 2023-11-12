@@ -30,4 +30,4 @@ The "Smart City Blood Bank Application in Java" not only addresses the pressing 
  
                                                     ***  UI Screen Shot  ***
 
-1.![Application landing page ](1.jpg)
+1.![Application landing page ](sc/1.jpg)
