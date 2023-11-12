@@ -35,7 +35,7 @@ The "Smart City Blood Bank Application in Java" not only addresses the pressing 
 
 ## Relational Model
 
-    ![13](https://github.com/NiranjanKumarYadav36/Smart-City-Blood-Bank-Application/assets/140634765/486be648-c10e-48fb-9ab8-56acd063589c)
+    1.![13](https://github.com/NiranjanKumarYadav36/Smart-City-Blood-Bank-Application/assets/140634765/486be648-c10e-48fb-9ab8-56acd063589c)
      
 
 
