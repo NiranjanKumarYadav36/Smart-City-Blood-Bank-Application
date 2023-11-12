@@ -30,6 +30,33 @@ The "Smart City Blood Bank Application in Java" not only addresses the pressing 
  
                                                     ***  UI Screen Shot  ***
 
-1.Application landing page
+1. Application landing page
 
 ![Application landing page ](sc/1.jpg)
+
+2. Login
+
+![login](sc/2.jpg)
+
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
