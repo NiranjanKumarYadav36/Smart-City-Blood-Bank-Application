@@ -29,3 +29,5 @@ The "Smart City Blood Bank Application in Java" not only addresses the pressing 
  - User-friendly Interface: Intuitive design for easy navigation.
  
                                                     ***  UI Screen Shot  ***
+
+1.![Application landing page ](1.jpg)
